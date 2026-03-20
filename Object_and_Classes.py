@@ -1,5 +1,3 @@
-# Object_and_Classes.py
-
 #Class
 class Car:
     def __init__(self, brand, model):
